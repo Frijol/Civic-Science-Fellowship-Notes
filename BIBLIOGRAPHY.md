@@ -1,0 +1,2 @@
+[costanza-chock]: https://mitpress.mit.edu/books/design-justice "Costanza-Chock, Sasha. 'Design Justice.' MIT Press, 2020.
+[ewing]: https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0402474 "Ewing, Claire. 'Environmental Justice and the Enforcement of Air Pollution Laws in Canada.' T. University of British Columbia, 2021. Web. 25 Nov. 2021. <https://open.library.ubc.ca/collections/ubctheses/24/items/1.0402474>. Electronic Theses and Dissertations (ETDs) 2008+."
