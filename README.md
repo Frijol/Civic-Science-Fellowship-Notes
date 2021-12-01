@@ -1,6 +1,5 @@
 # Notes
 
-Hidden in the Data: Crafting Policies to Address Inequality — Women’s Institute for Science
 * Policies to reduce inequality needs to examine where inequality is greatest: race, gender, wealth— situational to context (Quisumbing, 2021)
 * "I am waiting for the study that tells me what my wealth looks like, as a single woman who doesn't have children, I've never been married— how do I compare, not just to my white peers, but how do I compare to other women, how do I compare to other men, I want to see data aggregated in that way." (Sharpe, 2021)
 * Want to see researchers come in disaggregating data not just with a deficit lens, to see the "problem", but also to see what's working well, what conditions are creating success, what are the nuances (Sharpe, 2021)
@@ -23,10 +22,6 @@ Hidden in the Data: Crafting Policies to Address Inequality — Women’s Instit
 * Is the goal to: Protect those whose bodies are most physically vulnerable to criteria pollutants? Not increase racial disparities? Address and correct racial disparities? Redress existing and past racial disparities? Provide the greatest good to the greatest number irrespective of race? (Harrison, 2019)
 * EJ is specifically non-neoliberal (Harrison, 2019)
 * Cumulative impacts:  full scope of environmental stressors a community faces and vulnerability to them (Harrison, 2019)
-
-
-
-
 * "Standard narrative" of agency workers for why EJ policy implementation falls short at gvt level: limited resources, regulatory authority, and analytical tools (Harrison, 2019)
 
 ## Existing approaches to EJ in Environmental Governance

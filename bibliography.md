@@ -1,7 +1,7 @@
 # Bibliography
 
 * Costanza-Chock, Sasha. "Design Justice." MIT Press, 2020.
-* daCosta, Pedro. "Hidden In the Data Crafting Policies to Address Inequality." YouTube, uploaded by Women's Institute for Science, Equity and Race, 14 Nov, 2021. [https://www.youtube.com/watch?v=PqjFezP75Jg](https://www.youtube.com/watch?v=PqjFezP75Jg)
+* da Costa, Pedro. "Hidden In the Data Crafting Policies to Address Inequality." YouTube, uploaded by Women's Institute for Science, Equity and Race, 14 Nov, 2021. [https://www.youtube.com/watch?v=PqjFezP75Jg](https://www.youtube.com/watch?v=PqjFezP75Jg)
 * Ewing, Claire. "Environmental Justice and the Enforcement of Air Pollution Laws in Canada." T. University of British Columbia, 2021. Web. 25 Nov. 2021. [https://open.library.ubc.ca/collections/ubctheses/24/items/1.0402474](https://open.library.ubc.ca/collections/ubctheses/24/items/1.0402474). Electronic Theses and Dissertations (ETDs) 2008+.
 * Harrison, Jill Lindsey. "From the Inside Out: The Fight for Environmental Justice Within Government Agencies." MIT Press, 2019.
 * MartinRogers, Nicole. "Hidden In the Data Crafting Policies to Address Inequality." YouTube, uploaded by Women's Institute for Science, Equity and Race, 14 Nov, 2021. [https://www.youtube.com/watch?v=PqjFezP75Jg](https://www.youtube.com/watch?v=PqjFezP75Jg)
