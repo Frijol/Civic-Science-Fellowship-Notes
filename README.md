@@ -1,3 +1,3 @@
-https://kelsey.gitbook.io/civic-science-fellowship/
+[Gitbook](https://kelsey.gitbook.io/civic-science-fellowship/)
 
 # Notes
