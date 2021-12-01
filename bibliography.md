@@ -1,9 +1,12 @@
 # Bibliography
 
 * Costanza-Chock, Sasha. "Design Justice." MIT Press, 2020.
-* da Costa, Pedro. "Hidden In the Data Crafting Policies to Address Inequality." YouTube, uploaded by Women's Institute for Science, Equity and Race, 14 Nov, 2021. [https://www.youtube.com/watch?v=PqjFezP75Jg](https://www.youtube.com/watch?v=PqjFezP75Jg)
+* daCosta, Pedro. "Hidden In the Data Crafting Policies to Address Inequality." YouTube, uploaded by Women's Institute for Science, Equity and Race, 14 Nov, 2021. [https://www.youtube.com/watch?v=PqjFezP75Jg](https://www.youtube.com/watch?v=PqjFezP75Jg)
 * Ewing, Claire. "Environmental Justice and the Enforcement of Air Pollution Laws in Canada." T. University of British Columbia, 2021. Web. 25 Nov. 2021. [https://open.library.ubc.ca/collections/ubctheses/24/items/1.0402474](https://open.library.ubc.ca/collections/ubctheses/24/items/1.0402474). Electronic Theses and Dissertations (ETDs) 2008+.
 * Harrison, Jill Lindsey. "From the Inside Out: The Fight for Environmental Justice Within Government Agencies." MIT Press, 2019.
+* MartinRogers, Nicole. "Hidden In the Data Crafting Policies to Address Inequality." YouTube, uploaded by Women's Institute for Science, Equity and Race, 14 Nov, 2021. [https://www.youtube.com/watch?v=PqjFezP75Jg](https://www.youtube.com/watch?v=PqjFezP75Jg)
+* Quisumbing, Agnes. "Hidden In the Data Crafting Policies to Address Inequality." YouTube, uploaded by Women's Institute for Science, Equity and Race, 14 Nov, 2021. [https://www.youtube.com/watch?v=PqjFezP75Jg](https://www.youtube.com/watch?v=PqjFezP75Jg)
+* Sharpe, Rhonda Vonshay. "Hidden In the Data Crafting Policies to Address Inequality." YouTube, uploaded by Women's Institute for Science, Equity and Race, 14 Nov, 2021. [https://www.youtube.com/watch?v=PqjFezP75Jg](https://www.youtube.com/watch?v=PqjFezP75Jg)
 * Tutman, Frederick. "Achieving Environmental Justice: Lessons from Communities, Companies, and Government (ELI 2021 Corporate & Policy Forum)." Environmental Law Institute, 19 Oct 2021. [https://www.eli.org/events/achieving-environmental-justice-lessons-communities-companies-and-government-eli-2021](https://www.eli.org/events/achieving-environmental-justice-lessons-communities-companies-and-government-eli-2021)
 * Unseld, Monica. "TPC-Challenging Racist Narratives." Facebook, uploaded by Khalilah Veneable Collins, 29 Sep, 2021. [https://www.facebook.com/kvcollins/videos/1019966225247023/](https://www.facebook.com/kvcollins/videos/1019966225247023/)
 * Vest, Brad. "Poison in the Air." ProPublica, 2 Nov 2021. [https://www.propublica.org/article/toxmap-poison-in-the-air](https://www.propublica.org/article/toxmap-poison-in-the-air)
