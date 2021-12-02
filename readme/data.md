@@ -4,3 +4,4 @@
 * Look at what's happening within the data, not just at the household level— allows for intersectional analysis (Quisumbing, 2021)
 * When we're asking people to disaggregate data, we want to look at the types of questions we are trying to ask. Data disaggregation is a mechanic for stronger analysis in the context of the issue you're looking at. (Sharpe, 2021)
 * Datasets & data presentation often shows categorical demographic impacts but does not let you examine intersectionally—e.g. age, race, but the question is, did a generation of Black children lose grandparents? (Sharpe, 2021)
+* Rubrics for assessing data: Data completeness, dataset usability, privacy protections and FOIPOP requests, data detail, data public interoperability, staff responsiveness (Ewing, 2021) p31-37
