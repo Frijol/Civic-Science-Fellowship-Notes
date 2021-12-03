@@ -8,3 +8,4 @@
 * Public servant challenges in useful dissemination of resources when data is not disaggregated (da Costa, 2021)
 * Data is not equally available across all racial groups, want to be able to compare everyone in a similar manner so that we as researchers can ask questions and put data behind grassroots efforts (Sharpe, 2021)
 * Often Native American community is considered statistically insignificant, left out of analyses (MartinRogers, 2021)
+* "Even when penalties are issued, many polluters see these fines as part of the cost of doing business, said Craig Johnston, a former lawyer at the EPA and a professor of environmental law at Lewis and Clark Law School." (Vest, 2021)
