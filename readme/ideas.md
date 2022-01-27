@@ -5,3 +5,5 @@
 * When policies are funded, we can scientifically test the impact of that funding. Treat policies as scientific experiments: does the policy have the desired effect? If provably no, we should not fund. If not provable, why are we not collecting the relevant data? If theory of change of a policy is unclear, why? Do talking points match the budget? (Unseld, 2021)
 * Want to see researchers come in disaggregating data not just with a deficit lens, to see the "problem", but also to see what's working well, what conditions are creating success, what are the nuances (Sharpe, 2021)
 * Want to see context-aware aggregation choices for data (Sharpe, 2021)
+* "How can the health and ecosystem costs of the [petrochemical] industry be made collectively evident?" (Wylie et al, 2017)
+* How can organizations designed to bridge citizen science & agencies of the state meaningfully connect all parties so they can mutually reinforce and sustain each other? (Wylie et al, 2017)
