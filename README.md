@@ -2,10 +2,27 @@
 
 # Notes
 
+## To read (incomplete list)
+* Pellow on EJ
+* Holdren Citizen Science Memo
+
+## Reading
+* New Visions in Citizen Science
+* Indigenous Data Sovereignty
+* Sustain OSS 2021 Report
+* Fractivism
+
+## Read, notes not done yet
+* Williams, Sarah. "Data Action: Using Data for Public Good."
+
+## Read, notes in progress
+* WHEJAC. "WHEJAC Justice40 Climate and Economic Justice Screening Tool & Executive Order 12898 Revisions Interim Final Recommendations." EPA, 6 May 2021. [https://www.epa.gov/sites/default/files/2021-05/documents/whejac_interim_final_recommendations_0.pdf](https://www.epa.gov/sites/default/files/2021-05/documents/whejac_interim_final_recommendations_0.pdf)
+* Kimura, Aya H., and Abby Kinchy. “Citizen Science: Probing the Virtues and Contexts of Participatory Research.” Engaging Science, Technology, and Society, vol. 2, 4 Dec. 2016, pp. 331–361, [https://doi.org/10.17351/ests2016.99](https://doi.org/10.17351/ests2016.99). Accessed 2 Dec. 2021.
+
 ## Look up
 * Seeing Like an Oil Company: Ferguson, 2005
 
-## Uncategorized
+## Uncategorized notes
 * "We lack social and scientific methods as well as regulatory systems capable of tracking [fossil fuel and petrochemical] industries across arenas of extraction, transport, processing, and manufacture; across borders and across hazards." (Wylie et al, 2017)
 * "How can the health and ecosystem costs of the [petrochemical] industry be made collectively evident?" (Wylie et al, 2017)
 * "The less democratic a state, the more its oil extraction can thrive, as less attention needs to be paid to consequences for local inhabitants." (Wylie et al, 2017)
