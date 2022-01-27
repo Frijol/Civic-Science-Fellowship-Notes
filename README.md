@@ -3,21 +3,24 @@
 # Notes
 
 ## To read (incomplete list)
-* Pellow on EJ
-* Holdren Citizen Science Memo
+* Pellow, David. "What is Critical Environmental Justice?" Polity Press, 2018.
+* Holdren, John. "Memorandum to the heads of executive departments and agencies: Addressing Societal and Scientific Challenges through Citizen Science and Crowdsourcing." Office of Science and Technology Policy, 2015.
 
 ## Reading
-* New Visions in Citizen Science
-* Indigenous Data Sovereignty
-* Sustain OSS 2021 Report
-* Fractivism
+* Bowser, Anne, and Shanley, Lea. "New Visions in Citizen Science." Woodrow Wilson Center, 2013. [https://www.wilsoncenter.org/sites/default/files/media/documents/publication/NewVisionsInCitizenScience.pdf](https://www.wilsoncenter.org/sites/default/files/media/documents/publication/NewVisionsInCitizenScience.pdf)
+* Kukutai, Tahu and Taylor, John. "Indigenous Data Sovereignty: Towards an Agenda." ANU Press, 2016.
+* Littauer, Richard, Nickolls, Benjamin, Hill, John, and Wright, Martin. "Sustain in 2021." SustainOSS.org, 2021. [https://sustainoss.org/assets/pdf/Sustain-In-2021-Event-Report.pdf](https://sustainoss.org/assets/pdf/Sustain-In-2021-Event-Report.pdf)
+* Wylie, Sara. "Fractivism: Corporate Bodies and Chemical Bonds." Duke University Press, 2018.
 
 ## Read, notes not done yet
-* Williams, Sarah. "Data Action: Using Data for Public Good."
+* Williams, Sarah. "Data Action: Using Data for Public Good." The MIT Press, 2020.
 
 ## Read, notes in progress
 * WHEJAC. "WHEJAC Justice40 Climate and Economic Justice Screening Tool & Executive Order 12898 Revisions Interim Final Recommendations." EPA, 6 May 2021. [https://www.epa.gov/sites/default/files/2021-05/documents/whejac_interim_final_recommendations_0.pdf](https://www.epa.gov/sites/default/files/2021-05/documents/whejac_interim_final_recommendations_0.pdf)
 * Kimura, Aya H., and Abby Kinchy. “Citizen Science: Probing the Virtues and Contexts of Participatory Research.” Engaging Science, Technology, and Society, vol. 2, 4 Dec. 2016, pp. 331–361, [https://doi.org/10.17351/ests2016.99](https://doi.org/10.17351/ests2016.99). Accessed 2 Dec. 2021.
+
+## Read with notes complete
+See Bibliography
 
 ## Look up
 * Seeing Like an Oil Company: Ferguson, 2005
