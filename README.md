@@ -13,19 +13,31 @@
 * Wylie, Sara. "Fractivism: Corporate Bodies and Chemical Bonds." Duke University Press, 2018.
 
 ## Read, notes not done yet
-* Williams, Sarah. "Data Action: Using Data for Public Good." The MIT Press, 2020.
 
 ## Read, notes in progress
 * WHEJAC. "WHEJAC Justice40 Climate and Economic Justice Screening Tool & Executive Order 12898 Revisions Interim Final Recommendations." EPA, 6 May 2021. [https://www.epa.gov/sites/default/files/2021-05/documents/whejac_interim_final_recommendations_0.pdf](https://www.epa.gov/sites/default/files/2021-05/documents/whejac_interim_final_recommendations_0.pdf)
 * Kimura, Aya H., and Abby Kinchy. “Citizen Science: Probing the Virtues and Contexts of Participatory Research.” Engaging Science, Technology, and Society, vol. 2, 4 Dec. 2016, pp. 331–361, [https://doi.org/10.17351/ests2016.99](https://doi.org/10.17351/ests2016.99). Accessed 2 Dec. 2021.
+* Williams, Sarah. "Data Action: Using Data for Public Good." The MIT Press, 2020.
 
 ## Read with notes complete
 See Bibliography
 
 ## Look up
 * Seeing Like an Oil Company: Ferguson, 2005
+* Safiya Noble: Algorithms of Oppression
+* Kevin Lynch: The Image of the City (mental maps)
+* The Responsive City: Engaging Communities thought Data-Smart Governance
+* Paulo Freire: Pedagogy of the Oppressed
 
 ## Uncategorized notes
+* "Data has the potential to be used as evidence for the development of unjust policies." (Williams, 2020)
+* "Unlocking data for policy change works best when the process engages multidisciplinary teams that include policy experts, data scientists, and data visualizers, among others." (Williams, 2020)
+* "Redlining maps disguise visible structural bias as objective truth." (Williams, 2020)
+* On different types of data as fundamentally different views of communities: "[Jane] Jacobs is holding documents with citizens' signatures, while [Robert] Moses stands in front of one of his urban renewal projects holding a report full of data analytics offering evidence for the development." (Williams, 2020)
+* "Inherent to [Shelly] Arnstein's approach was the need to target broader publics, including communities typically marginalized by public participation processes, because they do not have the resources and data to advocate for their needs." (Williams, 2020)
+* "James Glass, who writes about citizen participation in planning, believed that information exchange that involved education, building support, supplemental decision-making, and representational input could change power relationships within public engagement strategies." (Williams, 2020)
+* "Data can be used for action: it's how we work with data that determines its potential to help society." (Williams, 2020)
+* "The explosion of [open source GIS] software has created a new group of data enthusiasts who are not aways aware of the risks of using data. This has produced a lot of 'bad' or inaccurate analysis, not necessarily out of malice, but rather a lack of data literacy." (Williams, 2020)
 
 ### Defining civic science
 * "We describe this form of citizen science as 'Civic Science' which, following Fortun and Fortun (2005) is a 'science that empowers people to question the state of things rather than simply serving the state'". (Wylie et al, 2017)

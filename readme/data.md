@@ -1,8 +1,11 @@
 # Data and Justice
+* "Data is not innocent or neutral: it bears the objectives of those who handle it..." (Williams, 2020)
+* "Data bears meaning simply based on for whom and for what reason the data is created and collected." (Williams, 2020)
 
 ## Assessing data and datasets
 * Rubrics for assessing data: Data completeness, dataset usability, privacy protections and FOIPOP requests, data detail, data public interoperability, staff responsiveness (Ewing, 2021) p31-37
 * Public datasets e.g. census may be used in ways not imagined by original data collectors, e.g. civil rights work from collection of demographics (Sharpe, 2021)
+* "While this data might be readily available for download, not everyone has the skills to use it for insights, and therefore the value of data still often likes in the hands of those in positions of power."  (Williams, 2020) (on cadastral maps openly available online in the US that can be read using OSS)
 
 ## Missing data
 * "Data should be generated to measure how the rights of indigenous peoples to access the ownership of lands, territories and resources are being met; how their participation in decision-making and control over their own development processes are progressing; what control over data and knowledge they are achieving; and what discrimination and exclusion they experience in regard to their social, economic and cultural rights. In terms of approaches and methodologies, it was stressed in these UN forums that indigenous peoples should control these data and that their effective participation in data gathering and research should be ensured. Furthermore, resulting data should be available for use by them in policy articulation, in planning and in monitoring and evaluation efforts." (Kukutai and Taylor, xxi)
@@ -15,6 +18,6 @@
 * UN Permanent Forum on Indigenous Issues recognized, in its first two sessions (2002 & 2003) that a lack of disaggregated data on indigenous peoples makes it difficult to formulate & implement indigenous-sensitive policies (Kukutai and Taylor, xxi)
 * "I am waiting for the study that tells me what my wealth looks like, as a single woman who doesn't have children, I've never been married— how do I compare, not just to my white peers, but how do I compare to other women, how do I compare to other men, I want to see data aggregated in that way." (Sharpe, 2021)
 
-### Intersectionality
+### Intersectionality and data
 * Look at what's happening within the data, not just at the household level— allows for intersectional analysis (Quisumbing, 2021)
 * Datasets & data presentation often shows categorical demographic impacts but does not let you examine intersectionally—e.g. age, race, but the question is, did a generation of Black children lose grandparents? (Sharpe, 2021)

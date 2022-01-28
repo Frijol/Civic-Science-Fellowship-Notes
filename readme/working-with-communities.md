@@ -7,6 +7,7 @@
 * Anecdotal data is useful to collect (e.g. elected official talking points, social media) in order to construct more rigorously testable questions. (Unseld, 2021)
 * Survey methods also need to be context-aware, e.g. if surveying on domestic violence, the phone may be answered more often by the husband, or with spouse in room, useful to come up with flagging questions e.g. are you on speakerphone, to assess risk to group under study and validity of interpreting answers at face value (Quisumbing, 2021)
 * Deciding on sensitive demographic questions: are we going to do something with this data if we ask for it? (MartinRogers, 2021)
+* Principles for open source governance: clearly defined boundaries, appropriate rules, rule-making processes, monitoring adherence to values, sanctions, conflict resolution, self-governance, decision making at various scales (subsidiarity) - more description available in (Littauer et al, 2021)
 
 ## The importance of the local
 * "The less democratic a state, the more its oil extraction can thrive, as less attention needs to be paid to consequences for local inhabitants." (Wylie et al, 2017)

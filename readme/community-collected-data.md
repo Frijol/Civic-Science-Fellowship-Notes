@@ -1,5 +1,10 @@
 # Community-collected data
 * "In contexts where there are widespread environmental and health impacts but little information about harms and their causes, communities often turn to collecting, sharing, and leveraging their own data." (Wylie et al, 2017)
+* "Building sensors, learning about data measurement, and collaborating with one another creates the bonds necessary to generate change." (Williams, 2020)
+* "Data collection has traditionally been designed by those with the resources to collect the information." (Williams, 2020)
+* Community-led data project terms: "participatory sensing" "counter-mapping, community mapping, participatory mapping, critical cartography, ethno-mapping, participatory GIS, Volunteered Geographic Information (VGI)."  (Williams, 2020)
+* "What's interesting about these participatory data collection methods is that accuracy does not always matter." act of collecting the data as primary intervention: inform and teach citizens about an issue. "Any inaccuracies unearthed in the process are another opportunity to teach participants to be skeptical of any data they are presented with." (Williams, 2020)
+* "When using data for action, the people affected by the data must be aware of the project and should also be able to critique the results." (Williams, 2020)
 
 ## What counts?
 * [in order to have impact], "Community tools must be validated by state and industry standards, which risks reinforcing rather than subverting inadequate norms of what counts as data and expanding the scientization of society such that only those with 'data' have a voice." (Wylie et al, 2017)
